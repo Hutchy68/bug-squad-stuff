@@ -19,12 +19,12 @@
  
  .issue-comment.well {
 	padding: 0;
-	background: #fff;
+	background: #ffffff;
 	margin: 0 1em 2em 1em;
 }
 
 span.comment-owner {
-	background: #ddd;
+	background: #dddddd;
 	padding: 1em;
 	display: block;
 	font-weight: bold;
@@ -36,7 +36,7 @@ span.comment-owner {
 
 .issue-tags ul {
 	list-style-type: none;
-	font-size: 14px;
+	margin: 0 0 .9em 1em
 }
 
 .issue-tags ul li {
@@ -44,7 +44,7 @@ span.comment-owner {
 	margin: 0 1em .5em 0;
 	border: 1px solid #bbbbbb;
 	background: #aaaaaa;
-	color: #fff;
+	color: #ffffff;
 	padding: .5em;
 	border-radius: 3px;
 	font-weight: bold;
